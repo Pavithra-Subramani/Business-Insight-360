@@ -91,6 +91,8 @@ Working in Power BI Service - publishing and sharing
 Personal Gateway for Auto-update Setup
 
 Power BI for Reporting Apps Creation
+
+
 **
 Terms of Business Covered**
 Starting Price
@@ -120,6 +122,8 @@ Retailer Sales
 Distributor Sales
 
 Consumer Insights
+
+
 **
 Soft Skills Gained**
 Stakeholder mapping and analysis
