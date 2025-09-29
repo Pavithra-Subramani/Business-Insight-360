@@ -3,6 +3,8 @@
 AtliQ Hardware is looking to expand their growth strategy even more by applying data analytics through Power BI for the very first time. The objective is to have a dominant control in the market and initiate proper business actions. This project aims to solve the stakeholders' questions in multiple business areas such as finance, marketing, sales, and supply chain management.
 
 Live Dashboard :https://app.powerbi.com/view?r=eyJrIjoiYzAxZWIyMzktZTE1OS00M2Y0LTk2MDYtY2JhMWUyYTkxNjg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
+
+
 **Finance View**
 Objectives
 Enhance financial planning and budgeting systems.
